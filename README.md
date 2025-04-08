@@ -8,7 +8,7 @@ This repo documents my daily progress as I commit to coding consistently for 100
 ## 📅 Challenge Timeline
 
 **Start Date:** 01/04/2025  
-**Current Day:** 07/04/2025 
+**Current Day:** 08/04/2025 
 **End Date (est.):** 08/07/2025
 
 ---
